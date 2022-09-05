@@ -4,7 +4,7 @@
 React Web Developer
 -------------------
 
-\- Experience working with JS, since a few time with TS. Best practices, React components, Hooks, Functional Logic with Helpers, Contexts, Etc. <br/>
+\- Experience working with JS, since a few time with TS. Best practices, React components, Hooks, Functional Logic with Helpers, Contexts. <br/>
 \- Quick builds and deploys with Netlify & Firebase. <br/>
 \- Experience working with BaaS as Firebase & Back4app making Logic to manipulate DB, Storages, Extraction from the DB & Storage, Configuration of DB rules and Auth workflow.
 
