@@ -8,7 +8,7 @@ React Web Developer
 \- Quick builds and deploys with Netlify & Firebase. <br/>
 \- Experience working with BaaS as Firebase & Back4app making Logic to manipulate DB, Storages, Extraction from the DB & Storage, Configuration of DB rules and Auth workflow.
 
-* 🌍  I'm based in Venezuela
+* 🌍  I'm based in bRASIL
 * ✉️  You can contact me at [santiagodaviduno@hotmail.com](mailto:santiagodaviduno@hotmail.com)
 * 🚀  I'm currently working on [Hexcolor Generator Example](http://hexcolor-generatorv1.netlify.app/)
 * 🧠  I'm learning TypeScript instead JavaScript for increase my development skills.
